@@ -7,7 +7,7 @@
     <string name="host">Hostovat</string>
     <string name="join">Vstoupit</string>
     <string name="title_activity_host">Založit chat</string>
-    <string name="title_activity_client">Přistoupit do chatu</string>
+    <string name="title_activity_client">Připojit se k chatu</string>
     <string name="action_reopen">Znovuotevřít chat</string>
 
 </resources>
